@@ -12,7 +12,7 @@ Website-link :- https://cars-showcase-qs2v2fvjx-anubhav710.vercel.app/?vercelToo
 ![Screenshot 2023-07-10 193451](https://github.com/Anubhav710/cars_showcase/assets/100343499/0e483b10-6af7-4e3b-a1d2-269efa858097)
 
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ## Getting Started
 
 First, run the development server:
